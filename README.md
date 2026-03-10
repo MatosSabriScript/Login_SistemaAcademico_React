@@ -1,70 +1,123 @@
-# Getting Started with Create React App
+# 🎓 Sistema Acadêmico - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é uma aplicação web desenvolvida em **React** com o objetivo de simular um **Sistema Acadêmico**, permitindo o gerenciamento e visualização de informações acadêmicas de forma simples, organizada e intuitiva.
 
-## Available Scripts
+A aplicação foi desenvolvida como parte de um projeto de aprendizado em desenvolvimento web moderno.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🔗 Repositório
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Código disponível em:
+https://github.com/MatosSabriScript/Login_SistemaAcademico_React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Tecnologias Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Axios (para comunicação com API)
+* Git e GitHub
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📚 Funcionalidades
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+O sistema acadêmico possui funcionalidades básicas que simulam um ambiente educacional digital.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Principais recursos:
 
-### `npm run eject`
+* 📋 Cadastro de alunos
+* 📖 Visualização de disciplinas
+* 🧑‍🏫 Informações acadêmicas
+* 🔎 Consulta de dados acadêmicos
+* 📊 Interface simples e organizada
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🖥️ Interface
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+A aplicação possui uma interface amigável que facilita a navegação do usuário dentro do sistema acadêmico.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Entre os principais elementos da interface estão:
 
-## Learn More
+* Menu de navegação
+* Páginas organizadas por funcionalidades
+* Layout responsivo
+* Componentes reutilizáveis
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⚙️ Como Executar o Projeto
 
-### Code Splitting
+### 1️⃣ Clonar o repositório
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/MatosSabriScript/Login_SistemaAcademico_React.git
+```
 
-### Analyzing the Bundle Size
+### 2️⃣ Entrar na pasta do projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+cd Login_SistemaAcademico_React
+```
 
-### Making a Progressive Web App
+### 3️⃣ Instalar as dependências
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm install
+```
 
-### Advanced Configuration
+### 4️⃣ Rodar a aplicação
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm start
+```
 
-### Deployment
+A aplicação será executada em:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
+http://localhost:3000
+```
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📂 Estrutura do Projeto
+
+```
+src
+ ├── components
+ ├── pages
+ ├── services
+ ├── App.js
+ └── index.js
+```
+
+* **components** → Componentes reutilizáveis
+* **pages** → Páginas do sistema
+* **services** → Comunicação com API
+* **App.js** → Estrutura principal da aplicação
+
+---
+
+## 🎯 Objetivo do Projeto
+
+O objetivo deste projeto é aplicar conceitos de:
+
+* Desenvolvimento com React
+* Consumo de APIs
+* Organização de componentes
+* Estruturação de aplicações frontend
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+Projeto desenvolvido por **Sabrina Matos** como parte de estudos e prática em desenvolvimento web.
+
+---
+
+⭐ Caso tenha gostado do projeto, considere dar uma estrela no repositório!
